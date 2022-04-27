@@ -19,7 +19,7 @@ public class Datatypes {
         Integer students = 30;
         system.debug(students);
         
-        Long fees = 40000L;
+        Long fees = 4000000L;
         system.debug(fees);
         
         Decimal hours = 3.30;
