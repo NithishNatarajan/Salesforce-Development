@@ -2,7 +2,7 @@
 <img align="center" alt="Coding" width="1000" src=https://media.giphy.com/media/lHaOPzWTwbIz5hr8FS/giphy.gif>
 <h1 align="center">Hi 👋, I'm Nithish</h1>
 <h3 align="center">A passionate Salesforce developer from India</h3>
-<img align="right" alt="Coding" width="200" src=https://media.giphy.com/media/DST0hV0EUhoLcp8P79/giphy.gif>
+<img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/Xewa8pwHHvzheQFKDD/giphy.gif>
 
 - 🌱 I’m currently learning **Salesforce**
 
