@@ -1,0 +1,30 @@
+public class ArithmeticOperations {
+public static void addition()
+{
+integer a = 5;
+integer b = 6;
+integer c = a+b;
+    system.debug(c);
+}
+public static void subtraction()
+{
+    integer a = 8;
+    integer b = 5;
+    integer c = a-b;
+    system.debug(c);
+}
+public static void multiplication()
+{
+    integer a = 20;
+    integer b = 400;
+    integer c = a*b;
+    system.debug(c);
+}
+public static void division()
+{
+    integer w = 650;
+    integer q = 50;
+    integer x = w/q;
+    system.debug(x);
+}
+}
