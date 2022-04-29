@@ -1,0 +1,30 @@
+Apex Class to Create List, Add List , Size of list , Getting Position , Update List , Remove List , Clear List....
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+public class ListApex {
+    public static void Listfunc()
+    {
+        List <string> Listfunc= new List <string>{'cricket','VolleyBall','Tennis'};
+            system.debug(Listfunc);
+        
+        Listfunc.add('Football');
+        Listfunc.add('Hockey');
+        system.debug(Listfunc);
+        
+        system.debug(Listfunc.get(2));
+        system.debug(Listfunc.size());
+        
+        Listfunc.set(2,'Badminton');
+        system.debug(Listfunc);
+        
+        Listfunc.remove(1);
+        system.debug(Listfunc);
+        
+        Listfunc.clear();
+        system.debug(Listfunc);
+        
+        
+              
+    }
+    
+}
