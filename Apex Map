@@ -1,0 +1,21 @@
+# Apex code for Map #
+--------------------------------------------------------------------------------------------------------
+
+public class ApexMap {
+public static void Maptype()
+{
+      Map<Integer , String> map1 = new Map<Integer , String>();
+        map1.put(01,'Kollywood');
+        map1.put(02,'Bollywood');
+        map1.put(03,'Hollywood');
+        map1.put(04,'Tollywood');
+        
+        system.debug(map1);
+}
+}
+--------------------------------------------------------------------------------------------------------
+
+# To Run the code #
+
+ApexMap.Maptype();
+--------------------------------------------------------------------------------------------------------
