@@ -1,0 +1,16 @@
+Apex program for Constructor 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+public class Constructor {
+public Constructor()
+{
+    system.debug('Hi there iam using constructor');
+}
+}
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# To Run the Code #
+
+Constructor s = new Constructor();
+
+# To call the function We have to Create Object (object name can be anything).#
+# Here i used s as a object #
