@@ -1,0 +1,26 @@
+Apex code for "SET"
+--------------------------------------------------------------------------------------------------------------------------
+public class ApexSet {
+public static void set()
+{
+    set <string> strset = new set <string> ();
+        strset.add('Kollywood');
+        strset.add('Bollywood');
+        strset.add('Hollywood');
+        strset.add('Tollywood');
+        system.debug(strset);
+        
+        set <string> strnew = strset.clone();
+        system.debug('New Set is' +strnew);
+        
+        system.debug(strnew.size());
+        
+        boolean str = strnew.contains('Bollywood');
+        system.debug(str);
+}
+}
+----------------------------------------------------------------------------------------------------------------------------
+
+# To the Run code #
+ApexSet.set();
+-----------------------------------------------------------------------------------------------------------------------------
