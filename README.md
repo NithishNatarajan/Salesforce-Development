@@ -17,3 +17,12 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
   </head>
 </html>
 <br>-------------------------------------------------------------------</br>
+
+<html> 
+  <head>
+    <body>
+      Apex Code for "Date and Time" ----> <a href="Apex Date and Time">Date and Time</a>
+    </body>
+  </head>
+</html>
+<br>-------------------------------------------------------------------</br>
