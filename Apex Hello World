@@ -1,0 +1,14 @@
+Apex code to Print "Hello World"
+---------------------------------------------------------------------------------------------------------
+
+public class ApexFirst {
+public static void basic()
+{
+ system.debug('Hello World');   
+}
+}
+
+------------------------------------------------------------------------------------------------------------
+# To Run the Code #
+
+ApexFirst.basic();
