@@ -1,0 +1,21 @@
+Apex code for Date and Time
+............................................................................................................................
+
+public class DateandTime {
+    public static void date()
+    {
+        Date todayy = Date.newInstance(2022,04,30);
+        Time timenow = Time.newInstance(02,30,00,00);
+        DateTime datime = DateTime.newInstance(2022,04,30,02,30,00);
+        
+        system.debug(todayy);
+        system.debug(timenow);
+        system.debug(datime);
+    }
+
+}
+............................................................................................................................
+
+# To Run the Code #
+
+DateandTime.date();
