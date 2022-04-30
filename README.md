@@ -7,7 +7,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
     </body>
   </head>
 </html>
-<br>-------------------------------------------------------------------<br>
+<br>----------------------------------------------------------------------<br>
  
  <html> 
   <head>
@@ -16,7 +16,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
     </body>
   </head>
 </html>
-<br>-------------------------------------------------------------------</br>
+<br>----------------------------------------------------------------------</br>
 
 <html> 
   <head>
@@ -25,7 +25,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
     </body>
   </head>
 </html>
-<br>-------------------------------------------------------------------</br>
+<br>----------------------------------------------------------------------</br>
 
 <html> 
   <head>
@@ -34,4 +34,13 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
     </body>
   </head>
 </html>
-<br>-------------------------------------------------------------------</br>
+<br>----------------------------------------------------------------------</br>
+
+<html> 
+  <head>
+    <body>
+      Apex Code for "Arithmetic operators" ----> <a href="ArithmeticOperations">Arithmetic operators</a>
+    </body>
+  </head>
+</html>
+<br>----------------------------------------------------------------------</br>
