@@ -2,7 +2,7 @@ Apex Class to Create List, Add List , Size of list , Getting Position , Update L
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 public class ListApex {
-    public static void Listfunc()
+    public static void Listfunc(
     {
         List <string> Listfunc= new List <string>{'cricket','VolleyBall','Tennis'};
             system.debug(Listfunc);
