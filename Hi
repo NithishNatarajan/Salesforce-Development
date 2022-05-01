@@ -1,0 +1,7 @@
+public class hithere
+{
+public static void main()
+{
+system.debug('Hi There');
+}
+}
