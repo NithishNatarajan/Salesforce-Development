@@ -12,7 +12,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
  <html> 
   <head>
     <body>
-      Apex Code for "Datatypes" ----> <a href="Datatypes">Datatypes</a
+      Apex Code for "Datatypes" ----> <a href="Datatypes">Datatypes</a>
     </body>
   </head>
 </html>
