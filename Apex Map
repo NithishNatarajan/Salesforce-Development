@@ -23,10 +23,10 @@ public static void Maptype()
         
         system.debug(map2.get(4));
         
-        List<String> listv = new List<String>();
-        listv = map2.values();
+        List<String> list1 = new List<String>();
+        list1 = map2.values();
         
-        system.debug(listv);
+        system.debug(list1);
         
         system.debug(map2.keyset());
         
