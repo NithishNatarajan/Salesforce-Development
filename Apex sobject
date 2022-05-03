@@ -1,0 +1,11 @@
+public class ApexSobject {
+public static void main()
+{
+    Contact con = new contact();
+    Account ac = new Account();
+    ac.name = 'Next wave';
+    con.LastName = ac.Name;
+    insert ac;
+    insert con;
+}
+}
