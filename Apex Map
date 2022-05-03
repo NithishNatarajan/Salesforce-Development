@@ -11,6 +11,41 @@ public static void Maptype()
         map1.put(04,'Tollywood');
         
         system.debug(map1);
+        public class ApexMap {
+public static void Maptype()
+{
+      Map<Integer , String> map1 = new Map<Integer , String>();
+        map1.put(01,'Kollywood');
+        map1.put(02,'Bollywood');
+        map1.put(03,'Hollywood');
+        map1.put(04,'Tollywood');
+        
+        system.debug(map1);
+        
+        Map<Integer , String> map2 = new Map<Integer , String>(); 
+        map2.put(1,'Ajith');
+        map2.put(2,'Shusanth');
+        map2.put(3,'Tom Cruise');
+        map2.put(4,'Allu Arjun');
+      
+        map2.putall(map1);
+        system.debug(map2);
+        
+        system.debug(map2.get(4));
+        
+        List<String> listv = new List<String>();
+        listv = map2.values();
+        
+        system.debug(listv);
+        
+        system.debug(map2.keyset());
+        
+        Boolean result = map2.containsKey(1);
+        system.debug(result);
+        Boolean result2 = map2.containsKey(3);
+        system.debug(result2);
+}
+}
 }
 }
 --------------------------------------------------------------------------------------------------------
