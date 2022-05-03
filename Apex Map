@@ -11,16 +11,6 @@ public static void Maptype()
         map1.put(04,'Tollywood');
         
         system.debug(map1);
-        public class ApexMap {
-public static void Maptype()
-{
-      Map<Integer , String> map1 = new Map<Integer , String>();
-        map1.put(01,'Kollywood');
-        map1.put(02,'Bollywood');
-        map1.put(03,'Hollywood');
-        map1.put(04,'Tollywood');
-        
-        system.debug(map1);
         
         Map<Integer , String> map2 = new Map<Integer , String>(); 
         map2.put(1,'Ajith');
