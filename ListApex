@@ -9,6 +9,7 @@ public class ListApex {
         
         Listfunc.add('Football');
         Listfunc.add('Hockey');
+        Listfunc.add('Cricket');
         system.debug(Listfunc);
         
         system.debug(Listfunc.get(2));
