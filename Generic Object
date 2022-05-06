@@ -1,3 +1,5 @@
+Apex code for Generic Object
+---------------------------------------------------------------------------------------------------------------------
 public class Genericobject
 {
 public static void main()
@@ -7,3 +9,6 @@ public static void main()
     insert s1;
     }
 }
+
+# To Run the Code #
+Genericobject.
