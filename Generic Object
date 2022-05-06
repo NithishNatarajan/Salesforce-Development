@@ -1,0 +1,9 @@
+public class Genericobject
+{
+public static void main()
+{
+    sObject s1 = new Account();
+    s1.put('Name','Student Account');
+    insert s1;
+    }
+}
