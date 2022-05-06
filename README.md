@@ -82,7 +82,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Map" ----> <Generic Object">Apex sobject</a>
+      Apex Code for "Map" ----> <Generic Object">Apex generic object</a>
     </body>
   </head>
 </html>
