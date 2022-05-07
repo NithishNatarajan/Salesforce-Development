@@ -4,16 +4,16 @@ public class SOQL {
     public static void main()
     {
     List<apex_Employes__c> EmployesList = new List<apex_Employes__c>();
-    EmployesList= [SELECT Id, Name, APEX_Customer__r.Name, APEX_Status__c FROM
-                   APEX_Invoice__c WHERE createdDate = today AND APEX_Customer__r.Name != 'Test'];
+    EmployesList= [SELECT Id, Name, FROM
+                   Department WHERE createdDate = today;
     System.debug('We have total '+InvoiceList.size()+' Records in List');
     
-    for (APEX_Invoice__c objInvoice: InvoiceList) {
-        System.debug('Record Value is '+objInvoice); 
+    for (objEmployes: EmployesList) {
+        System.debug('Employes'); 
         
     }
 }
 }
 
 # TO Run The Code #
-SOQL.main();
+
