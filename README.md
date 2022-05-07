@@ -74,7 +74,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Map" ----> <a href="Apex sobject">Apex sobject</a>
+      Apex Code for "sObject" ----> <a href="Apex sobject">Apex sobject</a>
     </body>
   </head>
 </html>
@@ -82,7 +82,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Map" ----> <a href="Generic Object">Apex generic object</a>
+      Apex Code for "Generic Object" ----> <a href="Generic Object">Apex generic object</a>
     </body>
   </head>
 </html>
@@ -90,7 +90,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Map" ----> <a href="SOQL">Apex SOQL</a>
+      Apex Code for "SOQL" ----> <a href="SOQL">Apex SOQL</a>
     </body>
   </head>
 </html>
