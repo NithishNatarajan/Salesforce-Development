@@ -1,3 +1,5 @@
+Apex code to print Hi
+----------------------------------------------------------------------------------------------------------
 public class hithere
 {
 public static void main()
@@ -5,3 +7,6 @@ public static void main()
 system.debug('Hi There');
 }
 }
+------------------------------------------------------------------------------------------------------------
+# To Run The Code #
+hithere.main();
