@@ -95,4 +95,12 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
   </head>
 </html>
 <br>----------------------------------------------------------------------</br>
+<html> 
+  <head>
+    <body>
+      Apex Code for "Addition of two Numbers" ----> <a href="SOQL">Apex Addition of Two Numbers</a>
+    </body>
+  </head>
+</html>
+<br>----------------------------------------------------------------------</br>
 
