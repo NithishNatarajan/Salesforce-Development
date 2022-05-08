@@ -31,3 +31,6 @@ public static void division()
     system.debug(x);
 }
 }
+----------------------------------------------------------------------------------------------------------------------------------
+# To Run The Code #
+Class Name.Function(); <--------------------- Need to debug according to the functions...
