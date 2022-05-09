@@ -106,7 +106,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Addition of two Numbers" ----> <a href="Add two numbers">Apex Addition of Two Numbers</a>
+      Apex Code for "Leap Year" ----> <a href="Leap year">Leap year</a>
     </body>
   </head>
 </html>
