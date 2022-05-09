@@ -3,7 +3,7 @@ public class leapyear
 {
     public static void leap()
     {
-        integer y = 2015;
+        integer y = 2022;
         if(math.mod(y,4)==0)
         {
             system.debug('Is a Leap Year');
