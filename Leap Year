@@ -2,7 +2,7 @@ Apex code For Leap Year
 --------------------------------------------------------------------------------------------------------------------------------
 public class leapyear 
 {
-    public static void leap()
+    public static void main()
     {
         integer y = 2022;
         if(math.mod(y,4)==0)
@@ -18,4 +18,4 @@ public class leapyear
 }
 ---------------------------------------------------------------------------------------------------------------------------------
 # TO Run the Code #
-leapyear.main()
+leapyear.main();
