@@ -90,7 +90,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "SOQL" ----> <a href="SOQL">Apex SOQL</a>
+      Apex Code for "SOQL" ----> <a href="SOQL">Click Here to View</a>
     </body>
   </head>
 </html>
