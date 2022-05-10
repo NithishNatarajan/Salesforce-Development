@@ -113,7 +113,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html>
 <head>
     <body>
-      Apex Code for "ODD or EVEN" ----> <a href="ODD or EVEN">ODD or EVEN</a>
+      Apex Code for "ODD or EVEN" ----> <a href="ODD or EVEN">Click Here to View</a>
     </body>
   </head>
 </html>
