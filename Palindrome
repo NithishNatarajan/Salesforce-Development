@@ -1,0 +1,20 @@
+
+public class basic 
+{
+    public static void base()
+    {
+        string name = 'AMMA';
+        string reverse = name.reverse();
+        
+        if(name.equals(reverse))
+        {
+            system.debug('THE STRING IS PALINDROME :)');
+        }
+        else
+        {
+            system.debug('THE STRING IS NOT PALINDROME :(');
+        }
+        
+    }
+
+}
