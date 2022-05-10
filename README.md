@@ -82,7 +82,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Generic Object" ----> <a href="Generic Object">Apex generic object</a>
+      Apex Code for "Generic Object" ----> <a href="Generic Object">Click Here to View</a>
     </body>
   </head>
 </html>
