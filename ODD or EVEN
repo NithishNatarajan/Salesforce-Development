@@ -1,5 +1,6 @@
-
-public class oddeven 
+Apex Code for to find the number Odd or Even
+----------------------------------------------------------------------------------------------------------------------------------
+public class oddoreven 
 {
     public static void main()
     {
@@ -15,3 +16,6 @@ public class oddeven
     }
 
 }
+---------------------------------------------------------------------------------------------------------------------------------------
+# To Run The Code #
+oddeoreven.main;
