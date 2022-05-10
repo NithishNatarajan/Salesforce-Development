@@ -39,7 +39,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Arithmetic operators" ----> <a href="ArithmeticOperations">Arithmetic operators</a>
+      Apex Code for "Arithmetic operators" ----> <a href="ArithmeticOperations">Click Here to View</a>
     </body>
   </head>
 </html>
