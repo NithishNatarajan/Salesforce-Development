@@ -106,7 +106,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Leap Year" ----> <a href="Leap year">Leap year</a>
+      Apex Code for "Leap Year" ----> <a href="Leap year">Click Here to View</a>
     </body>
   </head>
 </html><br>--------------------------------------------------------------------------------------------------------------------------------------------------------------</br>
