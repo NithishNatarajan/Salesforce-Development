@@ -1,0 +1,23 @@
+Apex code For Fibonacci Series
+----------------------------------------------------------------------------------------------------------------
+public class series
+{
+    public static void main()
+    {
+        integer n = 10;
+        integer first = 0;
+        integer second = 1;
+        integer sum;
+        for(integer i=1;i<=n;++i)
+        {
+            sum = first + second;
+            first = second;
+            second = sum;
+            system.debug('FIBONACCI SERIES : ' +sum);
+        }
+    }
+
+}
+-------------------------------------------------------------------------------------------------------------------
+# To Run The Code #
+series.main();
