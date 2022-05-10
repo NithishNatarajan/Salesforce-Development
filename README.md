@@ -113,7 +113,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <br>----------------------------------------------------------------------</br>
 <head>
     <body>
-      Apex Code for "INR to USD" ----> <a href="INR to USD">INR to USD</a>
+      Apex Code for "ODD or EVEN" ----> <a href="ODD or EVEN">ODD or EVEN</a>
     </body>
   </head>
 </html>
