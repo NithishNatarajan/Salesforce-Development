@@ -21,7 +21,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Date and Time" ----> <a href="Apex Date and Time">Date and Time</a>
+      Apex Code for "Date and Time" ----> <a href="Apex Date and Time">Click Here to View</a>
     </body>
   </head>
 </html>
