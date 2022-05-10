@@ -48,7 +48,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "List" ----> <a href="ListApex">List</a>
+      Apex Code for "List" ----> <a href="ListApex">Click Here to View</a>
     </body>
   </head>
 </html>
