@@ -57,7 +57,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Set" ----> <a href="Apex Set">Apex Set</a>
+      Apex Code for "Set" ----> <a href="Apex Set">Click Here to View</a>
     </body>
   </head>
 </html>
@@ -66,7 +66,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Map" ----> <a href="Apex Map">Click Here to View></a>
+      Apex Code for "Map" ----> <a href="Apex Map">Click Here to View</a>
     </body>
   </head>
 </html>
