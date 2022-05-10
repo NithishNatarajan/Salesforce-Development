@@ -1,7 +1,8 @@
-
-public class basic 
+Apex code for Palindrome
+----------------------------------------------------------------------------------------------------------------------
+public class palindrome()
 {
-    public static void base()
+    public static void main()
     {
         string name = 'AMMA';
         string reverse = name.reverse();
@@ -18,3 +19,6 @@ public class basic
     }
 
 }
+----------------------------------------------------------------------------------------------------------------------
+# To Run the Code #
+palindrome.main();
