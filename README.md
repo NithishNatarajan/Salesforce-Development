@@ -30,7 +30,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
 <html> 
   <head>
     <body>
-      Apex Code for "Constructor" ----> <a href="Apex Constructor">Constructor</a>
+      Apex Code for "Constructor" ----> <a href="Apex Constructor">Click Here to View</a>
     </body>
   </head>
 </html>
