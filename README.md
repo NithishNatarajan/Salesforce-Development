@@ -111,6 +111,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
   </head>
 </html>
 <br>----------------------------------------------------------------------</br>
+<html>
 <head>
     <body>
       Apex Code for "ODD or EVEN" ----> <a href="ODD or EVEN">ODD or EVEN</a>
@@ -118,9 +119,17 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Hello World</a>
   </head>
 </html>
 <br>----------------------------------------------------------------------</br>
+<html>
 <head>
     <body>
       Apex Code for "Fibonacci Series" ----> <a href="Fibonacci Series">Fibonacci Series</a>
+    </body>
+  </head>
+</html>
+<br>----------------------------------------------------------------------</br>
+<head>
+    <body>
+      Apex Code for "Palindrome" ----> <a href="Palindromes">Click Here to View</a>
     </body>
   </head>
 </html>
