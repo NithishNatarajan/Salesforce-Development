@@ -136,7 +136,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Click Here to View<
 <html>
 <head>
     <body>
-      Apex Code for "Palindrome" ----> <a href="Palindromes">Click Here to View</a>
+      Apex Code for "Vowel or Consonant" ----> <a href="Vowel or Consonant">Click Here to View</a>
     </body>
   </head>
 </html>
