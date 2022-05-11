@@ -1,8 +1,8 @@
 Apex code for Vowel or Consonant
 -------------------------------------------------------------------------------------------------------
-public class basic 
+public class vowel 
 {
-    public static void base()
+    public static void main()
     {
         string a = 'i';
         if(a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u')
@@ -17,3 +17,6 @@ public class basic
         
 
 }
+-----------------------------------------------------------------------------------------------------------
+# To Run the Code #
+vowel.main();
