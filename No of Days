@@ -1,0 +1,11 @@
+public class basic 
+{
+    public static void base()
+    {
+        integer days = date.daysInMonth(2022,7);
+        system.debug('TOTAL NO OF DAYS IN MONTH : ' +days);
+        
+    }
+        
+
+}
