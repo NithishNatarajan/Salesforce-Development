@@ -5,11 +5,10 @@ public class foreach
     public static void main()
     {
         set<string> name = new set<string>();
-        name.add('Dhoni');
-        name.add('Sachin');
-        name.add('Yuvraj');
-        name.add('Ganguly');
-        name.add('Raina');
+        name.add('Chennai');
+        name.add('Mumbai');
+        name.add('Bangalore');
+        name.add('Gujarat');
         
         for(string na : name)
         {
