@@ -1,0 +1,18 @@
+public class basic 
+{
+    public static void base()
+    {
+        set<string> name = new set<string>();
+        name.add('Dhoni');
+        name.add('Sachin');
+        name.add('Yuvraj');
+        name.add('Ganguly');
+        name.add('Raina');
+        
+        for(string na : name)
+        {
+            system.debug(na);
+        }
+    }
+    
+}
