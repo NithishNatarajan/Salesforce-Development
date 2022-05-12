@@ -150,7 +150,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Click Here to View<
 <br>---------------------------------------------------------------------------------------------------------------------------------</br>
 <head>
     <body>
-      Apex Code for "For Each" ----> <a href="For each">Click Here to View</a>
+      Apex Code for "No of Days" ----> <a href="No of Days">Click Here to View</a>
     </body>
   </head>
 </html>
