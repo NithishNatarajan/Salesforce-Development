@@ -1,8 +1,8 @@
 Apex code for For each
 ---------------------------------------------------------------------------------------------------------------------------
-public class basic 
+public class foreach 
 {
-    public static void base()
+    public static void main()
     {
         set<string> name = new set<string>();
         name.add('Dhoni');
