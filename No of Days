@@ -1,10 +1,10 @@
 Apex code for No of Days
 -----------------------------------------------------------------------------------------------------------
-public class basic 
+public class noofdays
 {
-    public static void base()
+    public static void main()
     {
-        integer days = date.daysInMonth(2022,7);
+        integer days = date.daysInMonth(2022,12);
         system.debug('TOTAL NO OF DAYS IN MONTH : ' +days);
         
     }
@@ -13,4 +13,4 @@ public class basic
 }
 ------------------------------------------------------------------------------------------------------------
 # To Run the Code #
-
+noofdays.main();
