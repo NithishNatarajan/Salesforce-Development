@@ -1,7 +1,7 @@
 APEX CODE TO ADD TWO NUMBERS
 ---------------------------------------------------------------------------------------------------------------------------------
 
-public class apexaddition
+public class apexaddition 
 {
     public static void main()
     {
