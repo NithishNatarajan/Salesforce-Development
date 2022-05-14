@@ -164,7 +164,14 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Click Here to View<
   </head>
 </html>
 <br>---------------------------------------------------------------------------------------------------------------------------------</br>
-
+<html>
+<head>
+    <body>
+      Apex Code for "List using ForEach" ----> <a href="List using Foreach">Click Here to View</a>
+    </body>
+  </head>
+</html>
+<br>---------------------------------------------------------------------------------------------------------------------------------</br>
 
 
 
