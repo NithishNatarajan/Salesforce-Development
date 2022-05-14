@@ -1,0 +1,23 @@
+Apex code for List using ForEach
+---------------------------------------------------------------------------------------------------------------------
+public class Lforeach
+{
+    public static void main()
+    {
+        list<integer> rollno = new list<integer>();
+        rollno.add(101);
+        rollno.add(102);
+        rollno.add(103);
+        rollno.add(104);
+        rollno.add(105);
+      
+        for(integer a : rollno)
+        {
+            system.debug(a);
+        }
+    }
+    
+}
+---------------------------------------------------------------------------------------------------------------------
+ # To Run a code #
+ Lforeach.main();
