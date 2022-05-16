@@ -175,7 +175,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Click Here to View<
 <html>
 <head>
     <body>
-      Apex Code for "Set using ForEach" ----> <a href="Set using Foreach">Click Here to View</a>
+      Apex Code for "Map using ForEach" ----> <a href="Map using ForEach">Click Here to View</a>
     </body>
   </head>
 </html>
