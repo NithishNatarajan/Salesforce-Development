@@ -1,0 +1,18 @@
+public class basic 
+{
+    public static void base()
+    {
+        map<integer,string> data = new map<integer,string>();
+        data.put(01, 'Kollywood');
+        data.put(02, 'Hollywood');
+        data.put(03, 'Tollywood');
+        data.put(04, 'Mollywood');
+        data.put(05, 'Sandalwood');
+        
+        for(integer na : data.keyset())
+        {
+            system.debug(na);
+        }
+    }
+    
+}
