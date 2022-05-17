@@ -1,22 +1,22 @@
-public class switch
-{
-    public static void main()
+public class Apexswitch { 
+      public static void main()
     {
-        String Cricket = 'Ipl
+      
+        String Cricket = 'Ipl';
         
         switch on Cricket
         {
             when 'Ipl'
             {
-                system.debug('CSK is champions')
+                system.debug('CSK is the Champions');
             }
-            when 'Rohit
+            when 'Rohit'
             {
-                system.debug('MI is champions')
+                system.debug('Mi is the Champions');
             }
             when else
             {
-                system.debug('RCB worst uh!')
+                system.debug('RCB worst uh!');
             }
         }
     }
