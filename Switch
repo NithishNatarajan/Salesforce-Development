@@ -1,0 +1,24 @@
+public class switch
+{
+    public static void main()
+    {
+        String Cricket = 'Ipl
+        
+        switch on Cricket
+        {
+            when 'Ipl'
+            {
+                system.debug('CSK is champions')
+            }
+            when 'Rohit
+            {
+                system.debug('MI is champions')
+            }
+            when else
+            {
+                system.debug('RCB worst uh!')
+            }
+        }
+    }
+    
+}
