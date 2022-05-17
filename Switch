@@ -4,11 +4,11 @@ public class Apexswitch {
       public static void main()
     {
       
-        String Cricket = 'Ipl';
+        String Cricket = 'World cup';
         
         switch on Cricket
         {
-            when 'Ipl'
+            when 'Msd'
             {
                 system.debug('CSK is the Champions');
             }
