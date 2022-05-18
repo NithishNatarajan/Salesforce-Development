@@ -1,8 +1,8 @@
 Apex code for Simple Interest Calculation
 ---------------------------------------------------------------------------------------------------------------------------
-public class basic 
+public class Apexsi 
 {
-    public static void base()
+    public static void main()
     {
         integer P = 50000;
         integer R = 10;
@@ -15,4 +15,4 @@ public class basic
 }
 ---------------------------------------------------------------------------------------------------------------------------
 # To Run the Code #
-
+Apexsi.main();
