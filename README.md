@@ -191,7 +191,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Click Here to View<
 <html>
 <head>
     <body>
-      Apex Code for "Switch" ----> <a href="Switch">Click Here to View</a>
+      Apex Code for "Simple Interest" ----> <a href="Simple Interest">Click Here to View</a>
     </body>
   </head>
 </html>
