@@ -1,6 +1,8 @@
-public class basic 
+Apex code for Area of a Circle
+---------------------------------------------------------------------------------------------------------------------
+public class Apexcircle 
 {
-    public static void base()
+    public static void main()
     {
       integer a = 7;
       Decimal area;
@@ -10,3 +12,6 @@ public class basic
     }
 
 }
+---------------------------------------------------------------------------------------------------------------------
+# To Run the code #
+Apexcircle.main();
