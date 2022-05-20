@@ -204,6 +204,15 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Click Here to View<
   </head>
 </html>
 <br>---------------------------------------------------------------------------------------------------------------------------------</br>
+<html>
+<head>
+    <body>
+      Apex Code for "Area of Circle" ----> <a href="Area of a Circle">Click Here to View</a>
+    </body>
+  </head>
+</html>
+<br>---------------------------------------------------------------------------------------------------------------------------------</br>
+
 
 
 
