@@ -207,7 +207,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Click Here to View<
 <html>
 <head>
     <body>
-      Apex Code for "Area of Circle" ----> <a href="Area of a Circle">Click Here to View</a>
+      Apex Code for "Calculating Batting Average" ----> <a href="Calculating Batting Average">Click Here to View</a>
     </body>
   </head>
 </html>
