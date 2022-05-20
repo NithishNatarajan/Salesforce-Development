@@ -1,0 +1,18 @@
+public class basic 
+{
+    public static void base()
+    {
+        integer innings,totalruns,notout,totalmatch;
+        string Player = 'MSD';
+        double average;
+        innings = 80;
+        totalruns = 4153;
+        notout = 34;
+        totalmatch = 92;
+        
+        average = totalruns/(innings-notout);
+        system.debug('AVERAGE OF THE PLAYER ' +Player +'IS : ' +average);
+        
+    }
+    
+}
