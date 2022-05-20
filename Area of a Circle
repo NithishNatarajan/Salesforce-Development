@@ -1,0 +1,12 @@
+public class basic 
+{
+    public static void base()
+    {
+      integer a = 7;
+      Decimal area;
+      area = 3.14 * a * a;
+      system.debug('AREA OF CIRCLE : ' +area);
+        
+    }
+
+}
