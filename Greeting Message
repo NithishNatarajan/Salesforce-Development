@@ -1,0 +1,17 @@
+public class basic 
+{
+    public static void base()
+    {
+        string name = 'Dhoni';
+        if(name.contains('Dhoni'))
+        {
+            system.debug('Welcome' +name +'Thanks for coming here');
+        }
+        else
+        {
+            system.debug('SORRY NAME IS NOT PRINT HERE !');
+        }
+        
+    }
+
+}
