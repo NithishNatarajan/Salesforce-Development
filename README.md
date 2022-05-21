@@ -215,7 +215,7 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Click Here to View<
 <html>
 <head>
     <body>
-      Apex Code for "Calculating Batting Average" ----> <a href="Calculating Batting Average">Click Here to View</a>
+      Apex Code for "Greeting message" ----> <a href="Greeting Message">Click Here to View</a>
     </body>
   </head>
 </html>
