@@ -1,6 +1,8 @@
-public class basic 
+Apex code for Greeting Message
+-----------------------------------------------------------------------------------------------------------------
+public class Apexgreeting  
 {
-    public static void base()
+    public static void main()
     {
         string name = 'Dhoni';
         if(name.contains('Dhoni'))
@@ -15,3 +17,6 @@ public class basic
     }
 
 }
+-----------------------------------------------------------------------------------------------------------------
+# To Run THe Code #
+Apexgreeting.main();
