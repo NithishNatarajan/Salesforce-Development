@@ -1,11 +1,16 @@
-public class tables 
+Apex code for Multiplication Table
+---------------------------------------------------------------------------------------------------------------
+public class Apextables 
 {
-    public static void multitab()
+    public static void main()
     {
-        integer n = 12;
+        integer n = 13;
         for(integer i=1;i<=10;i++)
         {
             system.debug(n + '*' + i + '=' +n*i);
         }
     }
 }
+---------------------------------------------------------------------------------------------------------------
+# To Run the Code #
+Apextables.main();
