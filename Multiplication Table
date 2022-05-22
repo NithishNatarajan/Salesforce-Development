@@ -1,0 +1,11 @@
+public class tables 
+{
+    public static void multitab()
+    {
+        integer n = 12;
+        for(integer i=1;i<=10;i++)
+        {
+            system.debug(n + '*' + i + '=' +n*i);
+        }
+    }
+}
