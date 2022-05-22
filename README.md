@@ -220,6 +220,15 @@ Apex Code for "Hello World" ----> <a href="Apex Hello World">Click Here to View<
   </head>
 </html>
 <br>---------------------------------------------------------------------------------------------------------------------------------</br>
+<html>
+<head>
+    <body>
+      Apex Code for "Multiplication Table" ----> <a href="Apex Code to Display Multiplication table">Click Here to View</a>
+    </body>
+  </head>
+</html>
+<br>---------------------------------------------------------------------------------------------------------------------------------</br>
+
 
 
 
